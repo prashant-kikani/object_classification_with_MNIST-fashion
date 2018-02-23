@@ -1,16 +1,16 @@
 # object_classification_with_MNIST-fashion
 Item Classification with MNIST fashion dataset.
-Items are namely : 
-0 	T-shirt/top<br/>
-1 	Trouser<br/>
-2 	Pullover<br/>
-3 	Dress<br/>
-4 	Coat<br/>
-5 	Sandal<br/>
-6 	Shirt<br/>
-7 	Sneaker<br/>
-8 	Bag<br/>
-9 	Ankle boot<br/><br/>
+Items are namely : <br/><br/>
+0. T-shirt/top<br/>
+1. Trouser<br/>
+2. Pullover<br/>
+3. Dress<br/>
+4. Coat<br/>
+5. Sandal<br/>
+6. Shirt<br/>
+7. Sneaker<br/>
+8. Bag<br/>
+9. Ankle boot<br/><br/>
 Here is image of showing full dataset in a glace. <br/>
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/fashion-mnist-sprite.png)
 ## Requirements
