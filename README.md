@@ -10,7 +10,8 @@ Items are namely :
 6 	Shirt<br/>
 7 	Sneaker<br/>
 8 	Bag<br/>
-9 	Ankle boot<br/>
+9 	Ankle boot<br/><br/>
+Here is image of showing full dataset in a glace. <br/>
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/fashion-mnist-sprite.png)
 ## Requirements
 1. Tensorflow-gpu v1.3.0
@@ -26,7 +27,7 @@ Items are namely :
 ## before usage
 Neural network only give best results when we give similar images on which it is trained in testing phase.<br/> 
 So, I am showing some images on which it is trained.<br/>
-You should use this model with "<b>similar<b/>" images. Not on completly different images.
+You should use this model with "<b>similar</b>" images. Not on completly different images.
 1. T-shirt/top : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/T-shirt-top.jpg)
 <br/>
