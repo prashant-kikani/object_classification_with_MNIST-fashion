@@ -28,38 +28,38 @@ Here is image of showing full dataset in a glace. <br/>
 8. OpenCV (cv2) v3.3.0
 
 
-## before usage
+## Before usage
 Neural network only give best results when we give similar images on which it is trained in testing phase.<br/> 
 So, I am showing some images on which it is trained.<br/>
 You should use this model with "<b>similar</b>" images. Not on completly different images.
 1. T-shirt/top : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/T-shirt-top.jpg)
-<br/>
-2. Trouser
+
+2. Trouser : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Trouser1.jpg)
-<br/>
-3. Pullover
+
+3. Pullover : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/pullover1.jpg)
-<br/>
-4. Dress
+
+4. Dress : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Dressp.jpg)
-<br/>
-5. Coat
+
+5. Coat : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Coat1.jpg)
-<br/>
-6. Sandal
+
+6. Sandal : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Sandal1.jpg)
-<br/>
-7. Shirt
+
+7. Shirt : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Shirt1.jpg)
-<br/>
-8. Bag
+
+8. Bag : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Bag1.jpg)
-<br/>
+
 9. Ankle Boot : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Ankle_boot1.jpg)
-<br/>
-<br/>
+
+<br />
 ## Usage
 
 Run command 
