@@ -1,5 +1,5 @@
 # object_classification_with_MNIST-fashion
-Item Classification with MNIST fashion dataset. Images areof size 28 * 28 size.
+Item Classification with MNIST fashion dataset. Images are of size 28 * 28 size.
 Items are namely : <br/>
 
 | ID | Item Name  |
@@ -15,7 +15,7 @@ Items are namely : <br/>
 | 8  | Bag        |
 | 9  | Ankle boot |
 
-Here is image of showing full dataset in a glace. <br/>
+Here is image of showing full dataset in a glance. <br/>
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/fashion-mnist-sprite.png)
 ## Requirements
 1. Tensorflow-gpu v1.3.0
