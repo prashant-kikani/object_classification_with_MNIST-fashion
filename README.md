@@ -59,10 +59,9 @@ You should use this model with "<b>similar</b>" images. Not on completly differe
 9. Ankle Boot : 
 ![alt text](https://github.com/prashant-kikani/object_classification_with_MNIST-fashion/blob/master/sample_images/Ankle_boot1.jpg)
 
-<br />
 ## Usage
 
-Run command 
+Run command <br/>
 python test.py ImagePath
 <br/>
 In short give path of test image as command line argument.
