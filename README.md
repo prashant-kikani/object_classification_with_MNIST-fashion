@@ -62,7 +62,9 @@ You should use this model with "<b>similar</b>" images. Not on completly differe
 ## Usage
 
 Run command <br/>
+```
 python test.py ImagePath
+```
 <br/>
 In short give path of test image as command line argument.
 
