@@ -1,6 +1,6 @@
 # object_classification_with_MNIST-fashion
-Item Classification with MNIST fashion dataset. Images are of size 28 * 28 size.
-Download dataset from here : https://www.kaggle.com/zalando-research/fashionmnist
+Item Classification with MNIST fashion dataset. Images are of size 28 * 28 size. <br/>
+Download dataset from here : https://www.kaggle.com/zalando-research/fashionmnist<br/>
 Items are namely : <br/>
 
 | ID | Item Name  |
